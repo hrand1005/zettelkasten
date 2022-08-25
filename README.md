@@ -1,4 +1,4 @@
 # Index
 
 - [Abstraction](zettels/1661219901.md)
-- [Code Tuning](zettels/1661442756.md)
+- [Code Tuning](zettels/1661443756.md)
