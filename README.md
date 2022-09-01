@@ -18,6 +18,10 @@
 - _Design Patterns, Gamma, Helm, Johnson, Vlissides_
   - [1661536680](zettels/1661536680.md)
 
+- _Google Cloud Tech, Youtube Channel_
+  - [1662051360](zettels/1662051360.md)
+  - [1662051924](zettels/1662051924.md)
+
 - _The Mythical Man-Month, Frederick Brooks Jr._
   - [1661523680](zettels/1661523680.md)
   - [1661826332](zettels/1661826332.md)
