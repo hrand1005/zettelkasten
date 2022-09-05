@@ -26,6 +26,8 @@
   - [1661523680](zettels/1661523680.md)
   - [1661826332](zettels/1661826332.md)
   - [1662229632](zettels/1662229632.md)
+  - [1662390460](zettels/1662390460.md)
+  - [1662391961](zettels/1662391961.md)
 
 - _The Pragmatic Programmer, David Thomas & Andrew Hunt_
   - [1661984656](zettels/1661984656.md)
