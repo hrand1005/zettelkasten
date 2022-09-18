@@ -5,6 +5,7 @@
 - [Code Tuning](zettels/1661443756.md)
 - [Comments](zettels/1663158405.md)
 - [Design Patterns](zettels/1661536680.md)
+- [IEEE and Software Standards](zettels/1663514395.md)
 - [Layout and Style](zettels/1663016705.md)
 - [Project Planning](zettels/1661478052.md)
 - [Programmer](zettels/1662733779.md)
@@ -22,6 +23,7 @@
   - [1663016705](zettels/1663016705.md)
   - [1663158405](zettels/1663158405.md)
   - [1663510511](zettels/1663510511.md)
+  - [1663514395](zettels/1663514395.md)
 
 - _Design Patterns, Gamma, Helm, Johnson, Vlissides_
   - [1661536680](zettels/1661536680.md)
