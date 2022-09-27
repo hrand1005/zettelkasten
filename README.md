@@ -8,6 +8,7 @@
 - [IEEE and Software Standards](zettels/1663514395.md)
 - [Layout and Style](zettels/1663016705.md)
 - [Project Planning](zettels/1661478052.md)
+- [Process](zettels/1664251484.md)
 - [The Role of Programmer](zettels/1662733779.md)
 
 ## By Reference
@@ -41,7 +42,8 @@
   - [1662391961](zettels/1662391961.md)
   - [1662502493](zettels/1662502493.md)
   - [1662516210](zettels/1662516210.md)
+  - [1664251484](zettels/1664251484.md)
 
 - _The Pragmatic Programmer, David Thomas & Andrew Hunt_
   - [1661984656](zettels/1661984656.md)
-  - [1661895707](zettels/1661895707.md)
+  - [1661985707](zettels/1661985707.md)
