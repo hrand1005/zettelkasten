@@ -8,8 +8,9 @@
 - [Design Patterns](zettels/1661536680.md)
 - [IEEE and Software Standards](zettels/1663514395.md)
 - [Layout and Style](zettels/1663016705.md)
-- [Project Planning](zettels/1661478052.md)
 - [Process](zettels/1664251484.md)
+- [Project Planning](zettels/1661478052.md)
+- [Prototypes](zettels/1666231392.md)
 - [The Role of Programmer](zettels/1662733779.md)
 
 ## By Reference
@@ -27,6 +28,7 @@
   - [1663510511](zettels/1663510511.md)
   - [1663514395](zettels/1663514395.md)
   - [1664029473](zettels/1664029473.md)
+  - [1666231392](zettels/1666231392.md)
 
 - _Design Patterns, Gamma, Helm, Johnson, Vlissides_
   - [1661536680](zettels/1661536680.md)
@@ -51,7 +53,9 @@
   - [1665760678](zettels/1665760678.md)
   - [1666059147](zettels/1666059147.md)
   - [1666215173](zettels/1666215173.md)
+  - [1666231392](zettels/1666231392.md)
 
 - _The Pragmatic Programmer, David Thomas & Andrew Hunt_
   - [1661984656](zettels/1661984656.md)
   - [1661985707](zettels/1661985707.md)
+  - [1666231392](zettels/1666231392.md)
