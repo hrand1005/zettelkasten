@@ -40,6 +40,7 @@
 
 - _The Go Programming Language, A.A. Donovan, Brian W. Kernighan_
   - [1666441916](zettels/1666441916.md)
+  - [1666531549](zettels/1666531549.md)
 
 - _The Mythical Man-Month, Frederick Brooks Jr._
   - [1661523680](zettels/1661523680.md)
