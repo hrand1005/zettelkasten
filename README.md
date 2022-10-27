@@ -42,6 +42,7 @@
   - [1666441916](zettels/1666441916.md)
   - [1666531549](zettels/1666531549.md)
   - [1666577932](zettels/1666577932.md)
+  - [1666838565](zettels/1666838565.md)
 
 - _The Mythical Man-Month, Frederick Brooks Jr._
   - [1661523680](zettels/1661523680.md)
