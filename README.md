@@ -1,4 +1,9 @@
-# Index
+# Zettelkasten
+
+Structured note taking, with a goal of relating new concepts to existing knowledge.
+
+## By Title
+- [TITLE.md](TITLE.md)
 
 ## By Topic
 - [Abstraction](zettels/1661219901.md)
