@@ -1,6 +1,7 @@
 # Zettelkasten
 
-Structured note taking, with a goal of relating new concepts to existing knowledge.
+Structured note taking, with a goal of relating newly acquired concepts to my 
+existing knowledge/notes.
 
 ## By Title
 - [TITLE.md](TITLE.md)

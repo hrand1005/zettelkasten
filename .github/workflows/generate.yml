@@ -1,0 +1,22 @@
+name: Generate
+
+on:
+  push: 
+    branches: [ "master" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate title index
+        run: ./scripts/generate_title_index.sh
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Your Name
+          author_email: mail@example.com
+          message: 'github actions: generated title index'
+          add: '*'
