@@ -16,7 +16,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: Your Name
+          author_name: ZettelBot
           author_email: mail@example.com
           message: 'github actions: generated title index'
           add: '*'
