@@ -42,3 +42,4 @@
 - [Go Interface Comparisons](zettels/1668478907.md)
 - [Go Nil Interfaces Comparisons](zettels/1668795726.md)
 - [Go Type Assertions](zettels/1670560668.md)
+- [Go Discriminated Unions](zettels/1670987164.md)
