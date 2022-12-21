@@ -44,3 +44,4 @@
 - [Go Type Assertions](zettels/1670560668.md)
 - [Go Discriminated Unions](zettels/1670987164.md)
 - [Go Interfaces Heuristics](zettels/1671204263.md)
+- [Go Channel Operations](zettels/1671647418.md)
