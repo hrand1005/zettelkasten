@@ -45,3 +45,4 @@
 - [Go Discriminated Unions](zettels/1670987164.md)
 - [Go Interfaces Heuristics](zettels/1671204263.md)
 - [Go Channel Operations](zettels/1671647418.md)
+- [Go Unbuffered Channels](zettels/1671749174.md)
