@@ -47,3 +47,4 @@
 - [Go Channel Operations](zettels/1671647418.md)
 - [Go Unbuffered Channels](zettels/1671749174.md)
 - [Go Pipelines](zettels/1671832313.md)
+- [Go Unidirectional Channels](zettels/1671914528.md)
