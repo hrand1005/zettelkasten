@@ -50,3 +50,4 @@
 - [Go Unidirectional Channels](zettels/1671914528.md)
 - [Go Goroutine Leak](zettels/1672023529.md)
 - [Go Counting Semaphores](zettels/1672152416.md)
+- [Go nil Channels](zettels/1672415041.md)
