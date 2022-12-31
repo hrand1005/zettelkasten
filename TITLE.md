@@ -52,3 +52,4 @@
 - [Go Counting Semaphores](zettels/1672152416.md)
 - [Go nil Channels](zettels/1672415041.md)
 - [Go Simple Cancel](zettels/1672454818.md)
+- [Go Checking for Goroutine Leaks](zettels/1672469056.md)
