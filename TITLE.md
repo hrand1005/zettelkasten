@@ -55,3 +55,4 @@
 - [Go Checking for Goroutine Leaks](zettels/1672469056.md)
 - [Data Race](zettels/1672670147.md)
 - [Go Montior Goroutines](zettels/1672694892.md)
+- [Serial Confinement](zettels/1672695375.md)
