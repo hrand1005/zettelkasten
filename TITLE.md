@@ -53,3 +53,4 @@
 - [Go nil Channels](zettels/1672415041.md)
 - [Go Simple Cancel](zettels/1672454818.md)
 - [Go Checking for Goroutine Leaks](zettels/1672469056.md)
+- [Data Race](zettels/1672670147.md)
