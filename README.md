@@ -6,20 +6,6 @@ existing knowledge/notes.
 ## By Title
 - [TITLE.md](TITLE.md)
 
-## By Topic
-- [Abstraction](zettels/1661219901.md)
-- [Code Tuning](zettels/1661443756.md)
-- [Comments](zettels/1663158405.md)
-- [Documentation](zettels/1665457120.md)
-- [Design Patterns](zettels/1661536680.md)
-- [Go](zettels/1666441916.md)
-- [IEEE and Software Standards](zettels/1663514395.md)
-- [Layout and Style](zettels/1663016705.md)
-- [Process](zettels/1664251484.md)
-- [Project Planning](zettels/1661478052.md)
-- [Prototypes](zettels/1666231392.md)
-- [The Role of Programmer](zettels/1662733779.md)
-
 ## By Reference
 - _Code Complete 2nd Edition, Steve McConnell_
   - [1661443756](zettels/1661443756.md)
@@ -68,6 +54,7 @@ existing knowledge/notes.
   - [1672670147](zettels/1672670147.md)
   - [1672694892](zettels/1672694892.md)
   - [1672695375](zettels/1672695375.md)
+  - [1673552343](zettels/1673552343.md)
 
 - _The Mythical Man-Month, Frederick Brooks Jr._
   - [1661523680](zettels/1661523680.md)
