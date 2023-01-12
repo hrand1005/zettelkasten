@@ -56,3 +56,4 @@
 - [Data Race](zettels/1672670147.md)
 - [Go Montior Goroutines](zettels/1672694892.md)
 - [Serial Confinement](zettels/1672695375.md)
+- [RWMutex](zettels/1673552343.md)
