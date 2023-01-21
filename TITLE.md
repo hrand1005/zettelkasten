@@ -59,3 +59,4 @@
 - [RWMutex](zettels/1673552343.md)
 - [Memory Synchronization](zettels/1673592540.md)
 - [Go sync.Once](zettels/1673841156.md)
+- [Go Race Detector](zettels/1674319258.md)
