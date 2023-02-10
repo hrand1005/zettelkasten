@@ -61,3 +61,4 @@
 - [Go sync.Once](zettels/1673841156.md)
 - [Go Race Detector](zettels/1674319258.md)
 - [Duplicate Suppression](zettels/1675006680.md)
+- [DNS](zettels/1676058490.md)
