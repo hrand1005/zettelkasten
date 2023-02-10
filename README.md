@@ -32,6 +32,7 @@ existing knowledge/notes.
 
 - _PowerCert Animated Videos, Youtube Channel_
   - [1676058490](zettels/1676058490.md)
+  - [1676061064](zettels/1676061064.md)
 
 - _The Go Programming Language, Alan A.A. Donovan, Brian W. Kernighan_
   - [1666441916](zettels/1666441916.md)
