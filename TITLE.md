@@ -64,3 +64,4 @@
 - [DNS](zettels/1676058490.md)
 - [Proxy](zettels/1676061064.md)
 - [Goroutines vs Threads](zettels/1676355773.md)
+- [Go Cross Compile](zettels/1677201077.md)
