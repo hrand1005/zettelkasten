@@ -66,3 +66,6 @@
 - [Goroutines vs Threads](zettels/1676355773.md)
 - [Go Cross Compile](zettels/1677201077.md)
 - [Go Internal Package](zettels/1677294118.md)
+- [Go Private Var Fakes](zettels/1678162138.md)
+- [Go External Tests](zettels/1678163268.md)
+- [Go Brittle Tests](zettels/1678163765.md)
