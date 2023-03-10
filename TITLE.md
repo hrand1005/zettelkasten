@@ -69,3 +69,6 @@
 - [Go Private Var Fakes](zettels/1678162138.md)
 - [Go External Tests](zettels/1678163268.md)
 - [Go Brittle Tests](zettels/1678163765.md)
+- [Go Tools](zettels/1678474059.md)
+- [Go Cover Tool](zettels/1678474753.md)
+- [Go Benchmarks](zettels/1678475741.md)
