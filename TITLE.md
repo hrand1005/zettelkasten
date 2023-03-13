@@ -73,3 +73,5 @@
 - [Go Cover Tool](zettels/1678474753.md)
 - [Go Benchmarks](zettels/1678475741.md)
 - [Go Profiling](zettels/1678726841.md)
+- [Go Interpreting Profiling Results](zettels/1678743044.md)
+- [Go Example Tests](zettels/1678743571.md)
