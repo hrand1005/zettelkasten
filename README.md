@@ -72,6 +72,7 @@ existing knowledge/notes.
   - [1678474059](zettels/1678474059.md)
   - [1678474753](zettels/1678474753.md)
   - [1678475741](zettels/1678475741.md)
+  - [1678726841](zettels/1678726841.md)
 
 - _The Mythical Man-Month, Frederick Brooks Jr._
   - [1661523680](zettels/1661523680.md)
