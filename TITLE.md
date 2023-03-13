@@ -72,3 +72,4 @@
 - [Go Tools](zettels/1678474059.md)
 - [Go Cover Tool](zettels/1678474753.md)
 - [Go Benchmarks](zettels/1678475741.md)
+- [Go Profiling](zettels/1678726841.md)
