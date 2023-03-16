@@ -30,6 +30,9 @@ existing knowledge/notes.
   - [1662051360](zettels/1662051360.md)
   - [1662051924](zettels/1662051924.md)
 
+- _MDN Web Docs, developer.mozilla.org_
+  - [1678940008](zettels/1678940008.md)
+
 - _PowerCert Animated Videos, Youtube Channel_
   - [1676058490](zettels/1676058490.md)
   - [1676061064](zettels/1676061064.md)
