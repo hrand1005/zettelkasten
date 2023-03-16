@@ -75,3 +75,4 @@
 - [Go Profiling](zettels/1678726841.md)
 - [Go Interpreting Profiling Results](zettels/1678743044.md)
 - [Go Example Tests](zettels/1678743571.md)
+- [Document Object Model](zettels/1678940008.md)
