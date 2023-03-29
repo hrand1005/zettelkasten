@@ -77,3 +77,5 @@
 - [Go Example Tests](zettels/1678743571.md)
 - [Document Object Model](zettels/1678940008.md)
 - [Go Reflection](zettels/1679148079.md)
+- [Go Addressable reflect.Value](zettels/1680056856.md)
+- [Go Reflection Drawbacks](zettels/1680058245.md)
