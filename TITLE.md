@@ -79,3 +79,5 @@
 - [Go Reflection](zettels/1679148079.md)
 - [Go Addressable reflect.Value](zettels/1680056856.md)
 - [Go Reflection Drawbacks](zettels/1680058245.md)
+- [Go Unsafe Package](zettels/1680743763.md)
+- [Go unsafe.Pointer](zettels/1680744079.md)
