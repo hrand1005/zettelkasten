@@ -81,3 +81,4 @@
 - [Go Reflection Drawbacks](zettels/1680058245.md)
 - [Go Unsafe Package](zettels/1680743763.md)
 - [Go unsafe.Pointer](zettels/1680744079.md)
+- [Go Invoking C Libraries](zettels/1680799950.md)
