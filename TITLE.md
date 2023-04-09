@@ -82,3 +82,7 @@
 - [Go Unsafe Package](zettels/1680743763.md)
 - [Go unsafe.Pointer](zettels/1680744079.md)
 - [Go Invoking C Libraries](zettels/1680799950.md)
+- [Linux Kernel Responsibilities](zettels/1681047931.md)
+- [GNU Utils](zettels/1681048328.md)
+- [X Window System](zettels/1681059443.md)
+- [Console Terminal](zettels/1681059774.md)
