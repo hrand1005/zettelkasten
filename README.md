@@ -30,6 +30,12 @@ existing knowledge/notes.
   - [1662051360](zettels/1662051360.md)
   - [1662051924](zettels/1662051924.md)
 
+- _Linux Command Line and Shell Scripting Bible 3rd Editiion, Richard Blum, Christine Bresnahan_
+  - [1681047931](zettels/1681047931.md)
+  - [1681048328](zettels/1681048328.md)
+  - [1681059443](zettels/1681059443.md)
+  - [1681059774](zettels/1681059774.md)
+
 - _MDN Web Docs, developer.mozilla.org_
   - [1678940008](zettels/1678940008.md)
 
