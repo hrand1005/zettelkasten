@@ -35,6 +35,7 @@ existing knowledge/notes.
   - [1681048328](zettels/1681048328.md)
   - [1681059443](zettels/1681059443.md)
   - [1681059774](zettels/1681059774.md)
+  - [1682884451](zettels/1682884451.md)
 
 - _MDN Web Docs, developer.mozilla.org_
   - [1678940008](zettels/1678940008.md)
@@ -42,6 +43,9 @@ existing knowledge/notes.
 - _PowerCert Animated Videos, Youtube Channel_
   - [1676058490](zettels/1676058490.md)
   - [1676061064](zettels/1676061064.md)
+
+- _The C Programming Language, 2nd Edition, Brian W. Kernighan, Dennis M. Ritchie_
+  - [1682885143](zettels/1682885143.md)
 
 - _The Go Programming Language, Alan A.A. Donovan, Brian W. Kernighan_
   - [1666441916](zettels/1666441916.md)
