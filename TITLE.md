@@ -86,3 +86,5 @@
 - [GNU Utils](zettels/1681048328.md)
 - [X Window System](zettels/1681059443.md)
 - [Console Terminal](zettels/1681059774.md)
+- [Filesystem Hierarchy Standard](zettels/1682884451.md)
+- [getchar() int return](zettels/1682885143.md)
