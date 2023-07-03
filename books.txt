@@ -1,0 +1,21 @@
+Read
+- Pragmatic Programmer
+- Design Patterns
+- Code Complete
+- TMMM
+- Go Book
+- C Book
+
+In progress
+- CSAPP
+- Essential F#
+- Linux Shell Scripting Bible
+
+Interested
+- Domain Driven Design
+- 100 Go Mistakes
+- Refactoring
+- Accelerate
+- TDD (Beck)
+- XP explained (Beck)
+- OSDev.org
