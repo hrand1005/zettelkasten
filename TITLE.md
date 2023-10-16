@@ -88,3 +88,5 @@
 - [Console Terminal](zettels/1681059774.md)
 - [Filesystem Hierarchy Standard](zettels/1682884451.md)
 - [getchar() int return](zettels/1682885143.md)
+- [C Compilation System](zettels/1697420748.md)
+- [](zettels/1697421272.md)
