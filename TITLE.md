@@ -90,3 +90,4 @@
 - [getchar() int return](zettels/1682885143.md)
 - [C Compilation System](zettels/1697420748.md)
 - [](zettels/1697421272.md)
+- [](zettels/1697421993.md)
