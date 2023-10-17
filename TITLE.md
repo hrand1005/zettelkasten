@@ -91,3 +91,4 @@
 - [C Compilation System](zettels/1697420748.md)
 - [](zettels/1697421272.md)
 - [](zettels/1697421993.md)
+- [](zettels/1697527473.md)
