@@ -13,6 +13,7 @@ existing knowledge/notes.
 
     -   [1697421993](zettels/1697421993.md)
     -   [1704925793](zettels/1704925793.md)
+    -   [1704926852](zettels/1704926852.md)
 
 -   _Code Complete 2nd Edition, Steve McConnell_
 
