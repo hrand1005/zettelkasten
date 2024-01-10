@@ -12,6 +12,7 @@ existing knowledge/notes.
 -   _Building Microservices, Designing Fine-Grained Systems, Sam Newman_
 
     -   [1697421993](zettels/1697421993.md)
+    -   [1704925793](zettels/1704925793.md)
 
 -   _Code Complete 2nd Edition, Steve McConnell_
 

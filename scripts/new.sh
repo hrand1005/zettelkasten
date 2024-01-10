@@ -25,5 +25,4 @@ END
 
 echo "$TIMESTAMP" >> $NEW_ZETTLE
 
-nvim $NEW_ZETTLE
 echo "${NEW_ZETTLE} created."
