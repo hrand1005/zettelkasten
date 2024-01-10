@@ -92,3 +92,5 @@
 - [](zettels/1697421272.md)
 - [](zettels/1697421993.md)
 - [](zettels/1697527473.md)
+- [](zettels/1704925793.md)
+- [](zettels/1704926852.md)
