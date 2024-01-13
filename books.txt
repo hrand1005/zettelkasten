@@ -5,17 +5,17 @@ Read
 - TMMM
 - Go Book
 - C Book
+- CSAPP
+- XP explained (Beck)
 
 In progress
-- CSAPP
-- Essential F#
-- Linux Shell Scripting Bible
+- Distributed Systems (Steen, Tanenbaum)
+- Building Microservices (Newman)
+- 100 Go Mistakes
 
 Interested
 - Domain Driven Design
-- 100 Go Mistakes
 - Refactoring
 - Accelerate
 - TDD (Beck)
-- XP explained (Beck)
 - OSDev.org

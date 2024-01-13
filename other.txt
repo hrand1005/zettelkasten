@@ -1,0 +1,19 @@
+Articles, whitepapers, etc.
+
+Read
+- FSWE
+- SVT
+
+Distributed Systems
+- Microsoft SAGA Transactions
+- Amazon Transactional Outbox
+- Mapreduce
+- Google Filesystem
+- The Go PL and Env
+- VM FT
+- Raft
+- Linearizability
+- Zookeeper
+- Chain Replication
+
+Interested

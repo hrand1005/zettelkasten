@@ -58,6 +58,10 @@ existing knowledge/notes.
 
     -   [1678940008](zettels/1678940008.md)
 
+-   _MIT 6.824 Distributed Systems, Robert Morris and Frans Kaashoek_
+
+    -   [1705175803](zettels/1705175803.md)
+
 -   _PowerCert Animated Videos, Youtube Channel_
 
     -   [1676058490](zettels/1676058490.md)
