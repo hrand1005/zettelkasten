@@ -94,3 +94,4 @@
 - [Orchestration vs Choreography](zettels/1697527473.md)
 - [Orchestration vs Choreography](zettels/1704925793.md)
 - [Request-Response vs Event-based Collaboration](zettels/1704926852.md)
+- [Replication Strategies](zettels/1705175803.md)
